@@ -1,0 +1,286 @@
+.one i{
+    padding:1px;
+    float: none;
+    color:white;
+    
+}
+.one a{
+    text-decoration: none;
+    color:white;
+    border: 1px solid black;
+    border-radius:3px;
+
+    background-color:black;
+}
+.one a:hover{
+    color: darkcyan;
+}
+.two{
+    text-align: center;
+
+}
+.two i{
+ padding: 3px;
+ 
+}
+.two i:hover{
+    color:darkcyan;
+}
+.head{
+
+}
+.three{
+    
+    
+    
+}
+.three button{
+
+    border: none;
+    padding: 7px 18px;
+    background-color: gainsboro;
+}
+.three .al{
+    background-color: black ;
+    color: white;
+    
+}
+.head .dgn{
+    background-color: white;
+}
+
+.secone{
+    background-color: gray;
+    width:930px;
+    height: 610px;
+    padding: 30px;
+    margin-top: 82px;
+    margin-left: 250px;
+
+}
+.secone p{
+    text-align: center;
+}
+.imgone{
+    background-color:brown;
+    width: 274px;
+    filter: blur(2px);
+}
+
+.secone .imgone:hover{
+    filter: blur();
+    color: aliceblue;
+    transition: 2s;
+}
+.imgtwo{
+    background-color:brown;
+    width: 274px;
+    margin-left: 332px;
+    margin-top: -329px;
+    filter: blur(2px);
+}
+.secone .imgtwo:hover{
+    filter: blur();
+    color: aliceblue;
+    transition: 2s;
+}
+
+.imgthree{
+    background-color:brown;
+    width: 274px;
+    margin-left: 656px;
+    margin-top: -329px;
+    filter: blur(2px);
+}
+.secone .imgthree:hover{
+    filter: blur();
+    color: aliceblue;
+    transition: 2s;
+    
+}
+
+.imgfour{
+    background-color:brown;
+    width: 274px;
+    filter: blur(2px);
+}
+
+.secone .imgfour:hover{
+    filter: blur();
+    color: aliceblue;
+    transition: 2s;
+}
+.imgfive{
+    background-color:brown;
+    width: 274px;
+    margin-left: 332px;
+    margin-top: -329px;
+    filter: blur(2px);
+}
+.secone .imgfive:hover{
+    filter: blur();
+    color: aliceblue;
+    transition: 2s;
+}
+
+.imgsix{
+    background-color:brown;
+    width: 274px;
+    margin-left: 656px;
+    margin-top: -329px;
+    filter: blur(2px);
+   
+}
+.secone .imgsix:hover{
+    filter: blur();
+    color: aliceblue;
+    transition: 2s;
+    
+}
+
+.sectwo{
+    
+    color: white;
+    width: 990px;
+    height: 270px;
+    margin-left: 250px;
+    margin-top: 120px;
+    color:black
+
+}
+.four{
+    text-align: center;
+    margin-top:-90px;
+    padding: 20px;
+}
+.four a{
+    text-decoration: none;
+}
+.four button{
+    padding: 10px;
+    margin: 10px;
+}
+.five{
+    text-align: center;
+    width: 95%;
+    height: 30px;
+    background-color: gray;
+}
+.six{
+     width:75%;
+    height: 25px;
+    background-color:chocolate;
+}
+
+
+
+
+.Seven{
+    text-align: center;
+    width: 95%;
+    height: 30px;
+    background-color: gray;
+}
+.Eight{
+     width:65%;
+    height: 25px;
+    background-color:chocolate;
+}
+
+
+
+.nine{
+    text-align: center;
+    width: 95%;
+    height: 30px;
+    background-color: gray;
+}
+.ten{
+     width:85%;
+    height: 25px;
+    background-color:chocolate;
+}
+
+
+.eleven{
+    padding-top: 50px;
+       
+}
+.eleven i{
+
+    padding:10px;
+  
+    
+  
+}
+.eleven button{
+    padding-left: 35px;
+    padding-right: 35px;
+    
+   
+    
+}
+.eleven button :hover{
+   
+
+}
+.eleven button i:hover{
+    color:blueviolet;
+
+}
+
+
+
+.secthree{
+    background-color: white;
+    margin-top:430px;
+    margin-left: 250px;
+    width:990px;
+    height: 420px;
+
+}
+.tweleve{
+   
+  
+ 
+  display: flex;
+  
+  
+ 
+
+
+}
+.tweleve div{
+    padding-left: 140px;
+    padding-right: 130px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: gainsboro;
+  
+    
+}
+.tweleve div:hover{
+    background-color: cadetblue;
+    transition: 1s;
+}
+.fourteen{
+    color: white;    
+}
+ 
+.fifth{
+
+margin-left: 0px;
+margin-top: 40px;
+
+background-color:gainsboro;
+
+
+}
+.world{
+    color: white;
+   
+}
+.world a{
+    text-decoration: none;
+    color:chocolate;
+}
